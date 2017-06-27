@@ -67,6 +67,7 @@ static int findfield (lua_State *L, int objidx, int level) {
 }
 
 
+
 /*
 ** Search for a name for a function in all loaded modules
 */
