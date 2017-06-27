@@ -1,6 +1,7 @@
 /*
 ** $Id: ldebug.c,v 2.120 2016/03/31 19:01:21 roberto Exp roberto $
 ** Debug Interface
+debug接口
 ** See Copyright Notice in lua.h
 */
 

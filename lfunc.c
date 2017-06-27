@@ -1,6 +1,9 @@
 /*
 ** $Id: lfunc.c,v 2.44 2014/10/25 11:50:46 roberto Exp roberto $
 ** Auxiliary functions to manipulate prototypes and closures
+函数原型及闭包管理
+函数原型:函数声明由函数返回类型、函数名和形参列表组成。形参列表必须包括形参类型,
+但是不必对形参命名。这三个元素被称为函数原型,函数原型描述了函数的接口[1]  。
 ** See Copyright Notice in lua.h
 */
 

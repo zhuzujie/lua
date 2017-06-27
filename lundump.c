@@ -1,6 +1,7 @@
 /*
 ** $Id: lundump.c,v 2.43 2015/09/17 15:51:05 roberto Exp roberto $
 ** load precompiled Lua chunks
+还原（反序列化？）预编译的字节码
 ** See Copyright Notice in lua.h
 */
 

@@ -1,6 +1,9 @@
 /*
 ** $Id: lstrlib.c,v 1.253 2016/12/20 18:37:00 roberto Exp roberto $
 ** Standard library for string operations and pattern-matching
+字符串库
+pattern-matching：模式匹配是数据结构中字符串的一种基本运算，
+给定一个子串，要求在某个字符串中找出与该子串相同的所有子串，这就是模式匹配。
 ** See Copyright Notice in lua.h
 */
 

@@ -1,6 +1,7 @@
 /*
 ** $Id: linit.c,v 1.38 2015/01/05 13:48:33 roberto Exp roberto $
 ** Initialization of libraries for lua.c and other clients
+内嵌库的初始化
 ** See Copyright Notice in lua.h
 */
 
@@ -13,7 +14,7 @@
 ** libraries, call luaL_openlibs in your program. If you need a
 ** different set of libraries, copy this file to your project and edit
 ** it to suit your needs.
-**
+**可自定义初始化内容
 ** You can also *preload* libraries, so that a later 'require' can
 ** open the library, which is already linked to the application.
 ** For that, do the following code:

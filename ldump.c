@@ -1,6 +1,8 @@
 /*
 ** $Id: ldump.c,v 2.36 2015/03/30 15:43:51 roberto Exp roberto $
 ** save precompiled Lua chunks
+序列化预编译的LUA字节码
+序列化 (Serialization)将对象的状态信息转换为可以存储或传输的形式的过程。
 ** See Copyright Notice in lua.h
 */
 

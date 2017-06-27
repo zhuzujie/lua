@@ -1,6 +1,7 @@
 /*
 ** $Id: lstate.c,v 2.132 2015/11/02 16:01:41 roberto Exp roberto $
 ** Global State
+全局状态机
 ** See Copyright Notice in lua.h
 */
 

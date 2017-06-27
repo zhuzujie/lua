@@ -1,6 +1,7 @@
 /*
 ** $Id: llex.c,v 2.95 2015/11/19 19:16:22 roberto Exp roberto $
 ** Lexical Analyzer
+词法分析器
 ** See Copyright Notice in lua.h
 */
 

@@ -1,6 +1,7 @@
 /*
 ** $Id: lobject.c,v 2.112 2016/06/27 13:15:08 roberto Exp roberto $
 ** Some generic functions over Lua objects
+操作对象的一些函数
 ** See Copyright Notice in lua.h
 */
 

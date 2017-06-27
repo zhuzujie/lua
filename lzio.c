@@ -1,6 +1,7 @@
 /*
 ** $Id: lzio.c,v 1.36 2014/11/02 19:19:04 roberto Exp roberto $
 ** Buffered streams
+输入流接口（缓冲流）
 ** See Copyright Notice in lua.h
 */
 

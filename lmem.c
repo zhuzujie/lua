@@ -1,6 +1,7 @@
 /*
 ** $Id: lmem.c,v 1.90 2015/03/03 18:18:29 roberto Exp roberto $
 ** Interface to Memory Manager
+内存管理接口
 ** See Copyright Notice in lua.h
 */
 
